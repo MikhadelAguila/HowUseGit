@@ -1,0 +1,8 @@
+- ¿Cómo hacer un clon o copia de un repositorio de GitHub?
+  1.- Descargar un git (en linux es sudo apt-get git).
+  2.- Poner por consola : git clone "url".
+  Aclaración: La url es la que nos brinda GitHub, se le pega y ya.
+  3.- Tendremos el clon en la carpeta personal normalmente.
+- ¿Cómo actualizar el repositorio a la última versión?
+  1.- Se escribe por consola: git pull
+  
